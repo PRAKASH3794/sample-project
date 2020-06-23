@@ -27,8 +27,8 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
-		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.projectKey>CI_1</sonar.projectKey>
+		<sonar.host.url>http://127.0.0.1:80/about</sonar.host.url>
+		<sonar.projectKey>java</sonar.projectKey>
 	</properties>
 	<build>
 		<finalName>com.ms.calc</finalName>

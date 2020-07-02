@@ -27,8 +27,8 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
-		<sonar.host.url>http://ec2-100-26-180-238.compute-1.amazonaws.com:8080/sonarqube</sonar.host.url>
-		<sonar.projectKey>myapp</sonar.projectKey>
+		<sonar.host.url>http://3.236.83.162:8080/sonarqube</sonar.host.url>
+		<sonar.projectKey>myapp1</sonar.projectKey>
 	</properties>
 	<build>
 		<finalName>com.ms.calc</finalName>

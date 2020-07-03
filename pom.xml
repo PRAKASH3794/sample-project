@@ -28,12 +28,13 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://35.170.81.195:9090/sonarqube</sonar.host.url>
-		<sonar.projectKey>analysis-on-first1-july3</sonar.projectKey>
+		<sonar.projectKey>sonar_first_project</sonar.projectKey>
+		<sonar.projectName>sonar_first_project</sonar.projectName>
 	</properties>
 	<build>
 		<finalName>com.ms.calc</finalName>
 		<plugins>
-			<plugin>
+			<plugin>sonar_first_project
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>cobertura-maven-plugin</artifactId>
 				<version>2.7</version>

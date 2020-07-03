@@ -27,7 +27,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
-		<sonar.host.url>http://18.232.52.14:9090/sonarqube</sonar.host.url>
+		<sonar.host.url>http://35.170.81.195:9090/sonarqube</sonar.host.url>
 		<sonar.projectKey>analysis-on-first1</sonar.projectKey>
 	</properties>
 	<build>

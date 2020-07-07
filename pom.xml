@@ -27,11 +27,11 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
-		<sonar.host.url>http://18.204.1.77:9090/sonarqube</sonar.host.url>
-		<sonar.projectKey>sonar_new_first_project_jul_7</sonar.projectKey>
-		<sonar.projectName>sonar_new_first_project_jul_7</sonar.projectName>
+		<sonar.host.url>http://18.204.1.77:8080/sonarqube</sonar.host.url>
+		<sonar.projectKey>sonar_new_second_project_jul_7</sonar.projectKey>
+		<sonar.projectName>sonar_new_second_project_jul_7</sonar.projectName>
 	</properties>
-	<build>
+	<build>18.204.1.77
 		<finalName>com.ms.calc</finalName>
 		<plugins>
 			<plugin>

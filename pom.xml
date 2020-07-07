@@ -28,8 +28,8 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://18.208.143.252:9090/sonarqube</sonar.host.url>
-		<sonar.projectKey>sonar_new_second_project_jul_7_noon</sonar.projectKey>
-		<sonar.projectName>sonar_new_second_project_jul_7_noon</sonar.projectName>
+		<sonar.projectKey>sonar_first_jul7_noon</sonar.projectKey>
+		<sonar.projectName>sonar_first_jul7_noon</sonar.projectName>
 	</properties>
 	<build>
 		<finalName>com.ms.calc</finalName>

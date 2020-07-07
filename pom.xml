@@ -31,7 +31,7 @@
 		<sonar.projectKey>sonar_new_second_project_jul_7</sonar.projectKey>
 		<sonar.projectName>sonar_new_second_project_jul_7</sonar.projectName>
 	</properties>
-	<build>18.204.1.77
+	<build>
 		<finalName>com.ms.calc</finalName>
 		<plugins>
 			<plugin>

@@ -27,7 +27,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
-		<sonar.host.url>http://54.173.168.107:9090/sonarqube</sonar.host.url>
+		<sonar.host.url>http://100.26.182.17:9090/sonarqube</sonar.host.url>
 		<sonar.projectKey>sonar_first_jul5</sonar.projectKey>
 		<sonar.projectName>sonar_first_jul5</sonar.projectName>
 	</properties>

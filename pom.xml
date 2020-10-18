@@ -27,9 +27,9 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
-		<sonar.host.url>http://ec2-3-237-44-121.compute-1.amazonaws.com:9000/</sonar.host.url>
-		<sonar.projectKey>sonar_java_second</sonar.projectKey>
-		<sonar.projectName>sonar_java_second</sonar.projectName>
+		<sonar.host.url>http://ec2-3-237-34-70.compute-1.amazonaws.com:9200/</sonar.host.url>
+		<sonar.projectKey>sonarqube_java_second_instance</sonar.projectKey>
+		<sonar.projectName>sonar_java_second_instance</sonar.projectName>
 	</properties>
 	<build>
 		<finalName>com.ms.calc</finalName>

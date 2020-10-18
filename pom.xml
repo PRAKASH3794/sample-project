@@ -27,7 +27,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<sonar.language>java</sonar.language>
-		<sonar.host.url>http://ec2-3-236-250-215.compute-1.amazonaws.com:9000</sonar.host.url>
+		<sonar.host.url>http://ec2-3-237-44-121.compute-1.amazonaws.com:9000/</sonar.host.url>
 		<sonar.projectKey>sonar_java</sonar.projectKey>
 		<sonar.projectName>sonar_java</sonar.projectName>
 	</properties>
